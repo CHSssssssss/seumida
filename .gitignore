@@ -1,0 +1,10 @@
+# 소개 자료만 허용합니다. 앱 코드·내부 문서는 이 저장소에 넣지 않습니다.
+*
+!.gitignore
+!README.md
+!assets/
+!assets/logo.png
+!assets/routine-order.png
+!assets/today.png
+!assets/routines.png
+!assets/design-settings.png
